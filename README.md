@@ -1,1 +1,1 @@
-[Page](https:/jptom.github.io/)
+[Page](https://jptom.github.io/)
